@@ -96,6 +96,7 @@ body {
 
 .contact-info__block--center {
   justify-content: center;
+  align-items: center;
 }
 
 .contact-info__item {
